@@ -17,12 +17,20 @@ Each question has to be answered in 20s or else a dialog box will show saying ti
 ![homeScreen](https://user-images.githubusercontent.com/67794908/119693343-ce7bde80-be69-11eb-9d6b-9893409eb794.jpg)
 
 
+
+
 ###### **This is the screenshot of questionSection **
 ![questionSection](https://user-images.githubusercontent.com/67794908/119693376-d63b8300-be69-11eb-96e7-fa189c36a823.jpg)
 
 
+
+
+
 ###### **This is the screenshot of timeOut **
 ![timeOut](https://user-images.githubusercontent.com/67794908/119693387-d9367380-be69-11eb-98a7-f525af1e9995.jpg)
+
+
+
 
 
 ###### **This is the screenshot of scoreBoard **

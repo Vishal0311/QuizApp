@@ -12,5 +12,6 @@ Each question has to be answered in 20s or else a dialog box will show saying ti
       * has time limit for each questions.
 
 
-
+## Preview
+###### **This is the screenshot of home screen **
 

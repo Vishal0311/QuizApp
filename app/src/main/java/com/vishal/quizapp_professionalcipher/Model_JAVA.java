@@ -9,6 +9,7 @@ public class Model_JAVA {
     String aD;
     String ans;
 
+    // this is a model java
     public Model_JAVA(String question, String aA, String aB, String aC, String aD, String ans) {
         this.question = question;
         this.aA = aA;
@@ -65,4 +66,5 @@ public class Model_JAVA {
     public void setAns(String ans) {
         this.ans = ans;
     }
+
 }
